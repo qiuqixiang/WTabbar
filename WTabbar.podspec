@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'WTabbar'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of WTabbar.'
+  s.summary          = '自定义 WTabbar.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
