@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'WTabbar'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = '自定义 WTabbar.'
 
   s.description      = <<-DESC
