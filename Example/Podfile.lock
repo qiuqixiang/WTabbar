@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - WTabbar (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - WTabbar (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  WTabbar:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  WTabbar: f739553ae1d89af441adff91a25cab7d07f8ff23
+
+PODFILE CHECKSUM: 77bacaa0b0ebfdb87f49917a8a20ab63d15e0a60
+
+COCOAPODS: 1.10.0.beta.1

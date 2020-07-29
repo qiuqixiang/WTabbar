@@ -1,0 +1,6 @@
+framework module Pods_WTabbar_Tests {
+  umbrella header "Pods-WTabbar_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
